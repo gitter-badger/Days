@@ -1,4 +1,6 @@
 # Days
+
+[![Join the chat at https://gitter.im/DandelionLabs/DandelionDays](https://badges.gitter.im/DandelionLabs/DandelionDays.svg)](https://gitter.im/DandelionLabs/DandelionDays?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 "Dandelion Days" is the name for a planned circuit of regularly​ recurring public Open Source Software/Open Content events at a series of cities in various countries whose most altruistic educational mentors & Open Source project contributors have agreed to cooperate to realize the outreach mission of our new organization, 'Dandelion Labs'.
 The 'Dandelion Labs' outreach mission is described by the motto "Mentorship of Internet Literacy Skills to Inspire Collaboration Cross-pollination of Ideas across Oceans & Open Source Projects".
 These Dandelion Days have been inspired by the brilliant implementation of so many innovative massively collaborative project outreach best practices emerging & well-documented at both SageDays events described at the wiki.sagemath.org "How to Host a SageDays" article and Outreach.wikimedia.org/wiki/Best_practices.
